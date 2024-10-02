@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7q3ogRaxRRs=",
+  "success": true,
+  "projectFilePath": "C:\\EOIformación\\PROGRAMACIÓN\\Github\\C#\\Azure\\Formacion.Azure.CacheForRedis.ConsoleApp1\\Formacion.Azure.CacheForRedis.ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AARON\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\AARON\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\AARON\\.nuget\\packages\\stackexchange.redis\\2.8.0\\stackexchange.redis.2.8.0.nupkg.sha512",
+    "C:\\Users\\AARON\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
