@@ -1,2 +1,2 @@
 # CSharp
-Mi formación en C# se ha basado en premisas y ejercicios que muestro en este repositorio
+My training in C# has been based on premises and exercises that I show in this repository
